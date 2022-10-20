@@ -1,4 +1,4 @@
-package com.mindskip.xzs.domain;
+package com.domain;
 
 import java.io.Serializable;
 

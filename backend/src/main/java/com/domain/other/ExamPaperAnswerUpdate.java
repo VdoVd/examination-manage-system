@@ -1,4 +1,4 @@
-package com.mindskip.xzs.domain.other;
+package com.domain.other;
 
 
 public class ExamPaperAnswerUpdate {

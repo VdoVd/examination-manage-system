@@ -1,4 +1,4 @@
-package com.mindskip.xzs.domain.question;
+package com.domain.question;
 
 
 

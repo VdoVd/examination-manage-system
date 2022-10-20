@@ -1,4 +1,4 @@
-package com.mindskip.xzs.domain;
+package com.domain;
 
 import com.mindskip.xzs.domain.enums.QuestionTypeEnum;
 import com.mindskip.xzs.utility.ExamUtil;

@@ -1,4 +1,4 @@
-package com.mindskip.xzs.domain.exam;
+package com.domain.exam;
 
 
 import java.util.List;

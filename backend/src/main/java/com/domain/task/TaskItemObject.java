@@ -1,4 +1,4 @@
-package com.mindskip.xzs.domain.task;
+package com.domain.task;
 
 
 public class TaskItemObject {

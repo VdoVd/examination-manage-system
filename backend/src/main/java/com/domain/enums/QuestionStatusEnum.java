@@ -1,4 +1,4 @@
-package com.mindskip.xzs.domain.enums;
+package com.domain.enums;
 
 public enum QuestionStatusEnum {
 
